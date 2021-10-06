@@ -1,0 +1,30 @@
+{
+  "name": "SunFlower List",
+  "timestamp": "2021-07-15T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": ["sushiswap", "default"],
+  "tokens": [
+    {
+      "name": "SUNF",
+      "address": "0x9931C65d4F6EEb08bA3626C6715AE40E104527e8",
+      "symbol": "SUNF",
+      "decimals": 18,
+      "chainId": 336,
+      "logoURI": "https://sunflowerswap.io/logo.png"
+    },
+    {
+      "name": "Wrapped SDN",
+      "address": "0x05Bcebb9b5b914aD52Ed87801904AfCe359e694F",
+      "symbol": "WSDN",
+      "decimals": 18,
+      "chainId": 336,
+      "logoURI": "https://shiden.subscan.io/static/img/shiden.526f0686.png"
+    }
+  ]
+}
